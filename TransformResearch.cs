@@ -1,15 +1,17 @@
-﻿/*!
- * オブジェクト・コンポーネント検索クラス.
- * 
- * @file	TransformResearch.cs
- * @author	Lotos
- * @date	2015-10-24 03:17
- */
+﻿/************************************************
+TransformResearch.cs
+
+Copyright (c) 2015 LotosLabo
+
+This software is released under the MIT License.
+http://opensource.org/licenses/mit-license.php
+************************************************/
 
 using UnityEngine;
 using System.Collections;
 using System.Linq;
 
+/* オブジェクト・コンポーネント検索クラス. */
 public class TransformResearch : MonoBehaviour {
 
     /// <summary>
