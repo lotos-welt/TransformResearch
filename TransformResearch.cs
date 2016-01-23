@@ -1,7 +1,7 @@
 ﻿/************************************************
 TransformResearch.cs
 
-Copyright (c) 2015 LotosLabo
+Copyright (c) 2016 LotosLabo
 
 This software is released under the MIT License.
 http://opensource.org/licenses/mit-license.php
